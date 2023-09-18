@@ -1,3 +1,5 @@
 sample:
   config:
     value: "My first Management app"
+test-val: {cipher}a0395e48edf316c7b60a333110dca8cd19eaf3ca2e9eb14e220c5d4222de2899
+    
